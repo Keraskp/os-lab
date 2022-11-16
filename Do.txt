@@ -1,0 +1,30 @@
+# Process Programs
+
+fork
+wait
+exec
+zombie
+orphan
+daemon
+
+# Scheduling Programs
+
+FCFS
+SJF
+Priority Scheduling
+Round Robin
+
+# Shell Script Programs
+
+Even or odd
+Switch case
+if else
+for loop
+while loop
+echo, grep, pipe, sort 
+
+# Signal Handling
+
+[x] SIGKILL, SIGSTOP and User-Defined Signal
+[x] Catching signals
+
